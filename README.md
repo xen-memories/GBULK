@@ -1,2 +1,2 @@
 # GBULK
-Bulk define for xen
+Bulk defines for xen
